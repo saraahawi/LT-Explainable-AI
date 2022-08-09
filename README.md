@@ -1,5 +1,5 @@
 # A lightning talk about explainable AI for Misk DSI 2022-01 
-## This repo ccontains a demonstration and slides in pdf format
+## This repo contains a demonstration and slides in pdf format
 
 ## References: 
 
