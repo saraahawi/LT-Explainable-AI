@@ -15,9 +15,9 @@ doi:10.1126/scirobotics.aay7120
 
 [5](https://www.intechopen.com/chapters/72398)
 
-[6](https://www.researchgate.net/publication/338184751_Explainable_ Artificial_Intelligence_XAI_Concepts_Taxonomies_Opportunities_and _Challenges_toward_Responsible_AI)
+[6](https://www.researchgate.net/publication/338184751_Explainable_Artificial_Intelligence_XAI_Concepts_Taxonomies_Opportunities_and _Challenges_toward_Responsible_AI)
 
 [7](https://towardsdatascience.com/what-is-explainable-ai-xai-afc56938d513)
 
-[8](https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7- packages-in-python-to-explain-your-models-932967f0634b)
+[8](https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b)
 
