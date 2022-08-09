@@ -15,7 +15,7 @@ doi:10.1126/scirobotics.aay7120
 
 [5](https://www.intechopen.com/chapters/72398)
 
-[6](https://www.researchgate.net/publication/338184751_Explainable_Artificial_Intelligence_XAI_Concepts_Taxonomies_Opportunities_and _Challenges_toward_Responsible_AI)
+[6](https://www.researchgate.net/publication/338184751_Explainable_Artificial_Intelligence_XAI_Concepts_Taxonomies_Opportunities_and_Challenges_toward_Responsible_AI)
 
 [7](https://towardsdatascience.com/what-is-explainable-ai-xai-afc56938d513)
 
